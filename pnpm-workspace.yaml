@@ -5,3 +5,6 @@ allowBuilds:
   lightningcss: true
   unrs-resolver: true
   msw: false
+
+minimumReleaseAgeExclude:
+  - lucide-react@1.31.0
